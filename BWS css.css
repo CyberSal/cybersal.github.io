@@ -1,0 +1,38 @@
+/* Style for body */
+body {
+  font-family: Arial, sans-serif;
+  background-color: lightgray;
+  color: black;
+  margin: 0;
+  padding: 20px;
+
+
+/* Style for h1 */
+h1 {
+  text-align: center;
+  color: navy;
+  margin-top: 0;
+}
+
+/* Style for h2 */
+h2 {
+  color: #300;
+}
+
+/* Style for p */
+p {
+  line-height: 1.5;
+}
+
+/* Style for h3 */
+h3 {
+  color: #666;
+}
+
+/* Last line custom styles */
+p:last-child {
+  font-style: italic;
+  text-align: center;
+  margin-top: 30px;
+}
+
